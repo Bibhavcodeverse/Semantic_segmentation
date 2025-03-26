@@ -21,6 +21,9 @@ pip install torch torchvision opencv-python numpy matplotlib
 
 ```
 
+![Screenshot 2025-03-27 001733](https://github.com/user-attachments/assets/b8c6cb44-37a9-407c-8629-83e12e2efb96)
+
+
 ## How to Run
 1. **Load the model**: The script initializes the DeepLabV3 model with pre-trained weights.
 2. **Preprocess an image**: Resizes and normalizes the input.
