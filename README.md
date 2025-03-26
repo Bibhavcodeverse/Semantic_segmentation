@@ -17,7 +17,7 @@ Ensure you have the following libraries installed:
 ```bash
 pip install torch torchvision opencv-python numpy matplotlib
 
-![image](https://github.com/user-attachments/assets/733ef14d-4df1-4a43-b286-d55a75aa9525)
+
 
 ```
 
